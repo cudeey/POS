@@ -1,0 +1,14 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+:root {
+  --fc-button-bg-color: #ecb22e;
+  --fc-button-border-color: #ecb22e;
+  --fc-button-hover-border-color: #ecb22e;
+  --fc-button-active-bg-color: #ecb22e;
+  --fc-button-active-border-color: #ecb22e;
+  --fc-button-hover-bg-color: #ecb22e;
+}
